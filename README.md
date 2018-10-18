@@ -1,5 +1,7 @@
 # node-deeplink [![Build Status](https://travis-ci.org/mderazon/node-deeplink.svg?branch=master)](https://travis-ci.org/mderazon/node-deeplink) [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
+**Fork of [`node-deeplink`](https://github.com/mderazon/node-deeplink)** 
+
 > Easily create express endpoint to handle mobile deeplinks in your web server
 
 Takes away the pain of forwarding users to the right app store / mobile app depending on their platform.
